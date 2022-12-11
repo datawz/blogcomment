@@ -1,0 +1,2 @@
+# blogcomment
+store blog comment
